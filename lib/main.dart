@@ -32,10 +32,6 @@ class HomePage extends StatefulWidget {
 
 class _HomePageState extends State<HomePage> {
   List<Task> tasks = [
-    Task("Do house chores", false),
-    Task("Groceries", false),
-    Task("Studies", false),
-    Task("To do list item", false),
   ];
 
   final TextEditingController taskController = TextEditingController();
