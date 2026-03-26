@@ -1,17 +1,28 @@
-# to_do_list
+# Taskflow
 
-A new Flutter project.
+Taskflow is a simple to-do list application made with Flutter for my Visual Programming midterm project.
 
-## Getting Started
+## Features
+- Add new tasks
+- Mark tasks as completed
+- Delete all tasks from settings
+- Confirmation dialog before deleting all tasks
+- Settings page
+- Version display
 
-This project is a starting point for a Flutter application.
+## Technologies Used
+- Flutter
+- Dart
 
-A few resources to get you started if this is your first Flutter project:
+## Project Structure
+- `main.dart` → contains the main app logic, task model, home page, and settings page
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## How It Works
+- Users can add a task using the + button
+- Tasks are displayed in a list
+- Each task has a checkbox to mark it as completed
+- The settings page allows deleting all tasks
+- A confirmation dialog appears before deleting all tasks
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Author
+- Ziyad Sobhi
