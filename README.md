@@ -1,6 +1,6 @@
 # Taskflow
 
-Taskflow is a simple to-do list application made with Flutter for my Visual Programming midterm project.
+Taskflow is a simple to-do list application made for my Visual Programming midterm project.
 
 ## Features
 - Add new tasks
